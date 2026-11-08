@@ -1,0 +1,12 @@
+logs/*
+!logs/.gitkeep
+artifacts/*
+!artifacts/.gitkeep
+data/raw/*
+!data/raw/README.md
+data/sqlite/*
+!data/sqlite/.gitkeep
+*.sqlite3
+*.demo-key
+data/processed/public_sources.jsonl
+docs/project_memory.md

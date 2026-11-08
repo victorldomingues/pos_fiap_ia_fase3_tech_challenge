@@ -1,0 +1,7 @@
+[
+  {"patient_id": "SYN-0001", "name": "Maria Exemplo Silva", "cpf": "111.444.777-35", "birth_date": "12/03/1980", "phone": "(11) 91234-5678", "email": "maria.exemplo@example.com", "notes": "Paciente sintético. Internação para observação."},
+  {"patient_id": "SYN-0002", "name": "João Teste Almeida", "cpf": "529.982.247-25", "birth_date": "25/11/1975", "phone": "(21) 99876-5432", "email": "joao.teste@example.com", "notes": "Paciente sintético. Retorno ambulatorial agendado."},
+  {"patient_id": "SYN-0003", "name": "Ana Fictícia Souza", "cpf": "390.533.447-05", "birth_date": "02/07/1992", "phone": "(31) 98765-4321", "email": "ana.ficticia@example.com", "notes": "Paciente sintética. Exame de imagem agendado."},
+  {"patient_id": "SYN-0004", "name": "Carlos Modelo Pereira", "cpf": "168.995.350-09", "birth_date": "30/01/1960", "phone": "(41) 99123-4567", "email": "carlos.modelo@example.com", "notes": "Paciente sintético. Acompanhante em tempo integral."},
+  {"patient_id": "SYN-0005", "name": "Beatriz Demo Costa", "cpf": "111.222.333-96", "birth_date": "18/09/2001", "phone": "(51) 98888-7777", "email": "beatriz.demo@example.com", "notes": "Paciente sintética. Alta hospitalar prevista."}
+]

@@ -1,0 +1,3 @@
+-r requirements.txt
+# Extras apenas para o fine-tuning no Colab / download de datasets públicos
+datasets>=3.0
