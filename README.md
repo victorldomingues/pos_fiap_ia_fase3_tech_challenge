@@ -22,7 +22,7 @@ Apesar de o tema ser assistência hospitalar, este repositório **não utiliza d
 
 **Execução principal:** o projeto é apresentado no notebook único [IADT 3 - Victor Luiz Domingues.ipynb](IADT%203%20-%20Victor%20Luiz%20Domingues.ipynb), na raiz deste repositório. A implementação Python, os dados e as dependências estão em [`medical-ai-assistant/`](medical-ai-assistant/); o notebook utiliza essa pasta e não é autocontido.
 
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](IADT%203%20-%20Victor%20Luiz%20Domingues.ipynb)
 
 ## Vídeo explicativo
 
