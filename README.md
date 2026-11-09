@@ -28,7 +28,7 @@ Apesar de o tema ser assistência hospitalar, este repositório **não utiliza d
 
 Veja o vídeo explicativo no YouTube:
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/MaZKLVIN1gc)
 
 ---
 
